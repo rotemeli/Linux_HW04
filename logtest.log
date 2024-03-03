@@ -1,0 +1,8 @@
+15:42:54.442802763 - MyRepo Folder Created
+15:42:56.023967762 - https://github.com/Telhai-Git/LinuxFiles/archive/refs/tags/Data.tar.gz downloaded
+total 488
+drwxr-xr-x 3 rotemeli rotemeli   4096 Mar  3 15:42 .
+drwxr-xr-x 3 rotemeli rotemeli   4096 Mar  3 15:42 ..
+-rw-r--r-- 1 rotemeli rotemeli 480177 Mar  3 15:42 Data.tar.gz
+drwxr-xr-x 2 rotemeli rotemeli   4096 Feb 20 19:23 LinuxFiles-Data
+-rw-r--r-- 1 rotemeli rotemeli    146 Mar  3 15:42 logtest.log
