@@ -27,3 +27,22 @@ Author: rotemeli <rotempako8@gmail.com>
 Date:   Sun Mar 3 15:42:56 2024 +0200
 
     first commit
+15:49:53.503515241 - MyRepo Folder Created
+15:49:55.024323235 - https://github.com/Telhai-Git/LinuxFiles/archive/refs/tags/Data.tar.gz downloaded
+total 3288
+drwxr-xr-x 4 rotemeli rotemeli    4096 Mar  3 15:49 .
+drwxr-xr-x 4 rotemeli rotemeli    4096 Mar  3 15:43 ..
+drwxr-xr-x 8 rotemeli rotemeli    4096 Mar  3 15:46 .git
+-rw-r--r-- 1 rotemeli rotemeli  480177 Mar  3 15:49 Data.tar.gz
+drwxr-xr-x 2 rotemeli rotemeli    4096 Feb 20 19:23 LinuxFiles-Data
+-rw-r--r-- 1 rotemeli rotemeli      13 Mar  3 15:46 README.md
+-rw-r--r-- 1 rotemeli rotemeli      77 Mar  3 15:42 file_1.txt
+-rw-r--r-- 1 rotemeli rotemeli      58 Mar  3 15:42 file_2.txt
+-rw-r--r-- 1 rotemeli rotemeli   48395 Mar  3 15:42 linux1.jpg
+-rw-r--r-- 1 rotemeli rotemeli  128514 Mar  3 15:42 linux2.jpg
+-rw-r--r-- 1 rotemeli rotemeli    6808 Mar  3 15:42 linux3.png
+-rw-r--r-- 1 rotemeli rotemeli   49815 Mar  3 15:42 linux4.jpg
+-rw-r--r-- 1 rotemeli rotemeli    4495 Mar  3 15:42 log_1.log
+-rw-r--r-- 1 rotemeli rotemeli    1207 Mar  3 15:49 logtest.log
+-rw-r--r-- 1 rotemeli rotemeli  214487 Mar  3 15:42 oslogs.log
+-rw-r--r-- 1 rotemeli rotemeli 2380789 Mar  3 15:42 webserver.log
