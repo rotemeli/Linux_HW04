@@ -6,3 +6,30 @@ drwxr-xr-x 3 rotemeli rotemeli   4096 Mar  3 15:42 ..
 -rw-r--r-- 1 rotemeli rotemeli 480177 Mar  3 15:42 Data.tar.gz
 drwxr-xr-x 2 rotemeli rotemeli   4096 Feb 20 19:23 LinuxFiles-Data
 -rw-r--r-- 1 rotemeli rotemeli    146 Mar  3 15:42 logtest.log
+commit d14b970137cc68a6a5a2f6c8a87afd813e5dc977
+Author: rotemeli <rotempako8@gmail.com>
+Date:   Sun Mar 3 15:42:56 2024 +0200
+
+    first commit
+commit c9f36644ee0937f281ea8a2bbbbf48e985a4c771
+Author: rotemeli <rotempako8@gmail.com>
+Date:   Sun Mar 3 15:49:55 2024 +0200
+
+    Merged BR_IMAGES and BR_TEXT into master
+
+commit d14b970137cc68a6a5a2f6c8a87afd813e5dc977
+Author: rotemeli <rotempako8@gmail.com>
+Date:   Sun Mar 3 15:42:56 2024 +0200
+
+    first commit
+commit c9f36644ee0937f281ea8a2bbbbf48e985a4c771
+Author: rotemeli <rotempako8@gmail.com>
+Date:   Sun Mar 3 15:49:55 2024 +0200
+
+    Merged BR_IMAGES and BR_TEXT into master
+
+commit d14b970137cc68a6a5a2f6c8a87afd813e5dc977
+Author: rotemeli <rotempako8@gmail.com>
+Date:   Sun Mar 3 15:42:56 2024 +0200
+
+    first commit
